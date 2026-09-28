@@ -1,0 +1,9 @@
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+*.exe
+
+# VS Code & Cache
+.vscode/
+__pycache__/
